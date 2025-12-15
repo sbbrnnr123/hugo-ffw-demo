@@ -1,0 +1,6 @@
+baseURL: "http://localhost:1313/"
+languageCode: "de-de"
+title: "Freiwillige Feuerwehr Musterstadt"
+module:
+  imports:
+    - path: github.com/sbbrnnr/hugo-web-sb
