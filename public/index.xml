@@ -6,7 +6,22 @@
     <description>Recent content in Willkommen bei der Feuerwehr on Freiwillige Feuerwehr Musterstadt</description>
     <generator>Hugo</generator>
     <language>de-de</language>
+    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datenschutz</title>
+      <link>http://localhost:1313/datenschutz/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/datenschutz/</guid>
+      <description>&lt;h1 id=&#34;datenschutzerklärung&#34;&gt;Datenschutzerklärung&lt;/h1&gt;&#xA;&lt;h2 id=&#34;1-datenschutz-auf-einen-blick&#34;&gt;1. Datenschutz auf einen Blick&lt;/h2&gt;&#xA;&lt;h3 id=&#34;allgemeine-hinweise&#34;&gt;Allgemeine Hinweise&lt;/h3&gt;&#xA;&lt;p&gt;Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.&lt;/p&gt;&#xA;&lt;h2 id=&#34;2-allgemeine-informationen-und-pflichtinformationen&#34;&gt;2. Allgemeine Informationen und Pflichtinformationen&lt;/h2&gt;&#xA;&lt;h3 id=&#34;datenschutz&#34;&gt;Datenschutz&lt;/h3&gt;&#xA;&lt;p&gt;Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Impressum</title>
+      <link>http://localhost:1313/impressum/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/impressum/</guid>
+      <description>&lt;h1 id=&#34;impressum&#34;&gt;Impressum&lt;/h1&gt;&#xA;&lt;h2 id=&#34;angaben-gemäß--5-tmg&#34;&gt;Angaben gemäß § 5 TMG&lt;/h2&gt;&#xA;&lt;p&gt;Freiwillige Feuerwehr Musterstadt&lt;br&gt;&#xA;Musterstraße 1&lt;br&gt;&#xA;12345 Musterstadt&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Vertreten durch:&lt;/strong&gt;&lt;br&gt;&#xA;Kommandant: Max Mustermann&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kontakt:&lt;/strong&gt;&lt;br&gt;&#xA;Telefon: 0123 456789&lt;br&gt;&#xA;E-Mail: &lt;a href=&#34;mailto:info@feuerwehr-musterstadt.de&#34;&gt;info@feuerwehr-musterstadt.de&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Registereintrag:&lt;/strong&gt;&lt;br&gt;&#xA;Eintragung im Vereinsregister.&lt;br&gt;&#xA;Registergericht: Amtsgericht Musterstadt&lt;br&gt;&#xA;Registernummer: VR 12345&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:&lt;/strong&gt;&lt;br&gt;&#xA;Max Mustermann&lt;br&gt;&#xA;Musterstraße 1&lt;br&gt;&#xA;12345 Musterstadt&lt;/p&gt;&#xA;&lt;h2 id=&#34;haftungsausschluss&#34;&gt;Haftungsausschluss&lt;/h2&gt;&#xA;&lt;h3 id=&#34;haftung-für-inhalte&#34;&gt;Haftung für Inhalte&lt;/h3&gt;&#xA;&lt;p&gt;Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Footer</title>
       <link>http://localhost:1313/footer/</link>
